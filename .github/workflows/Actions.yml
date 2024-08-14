@@ -2,6 +2,7 @@ on: push
 
 jobs:
   build:
+  run-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: Platane/snk@v3
