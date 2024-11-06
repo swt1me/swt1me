@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OpenEdgeLines)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swt1me)](https://github.com/anuraghazra/github-readme-stats)
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
